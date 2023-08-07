@@ -1,0 +1,220 @@
+%!Adobe-FontList 1.22
+%Locale:0x419
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Gilroy-Bold
+FamilyName:Gilroy
+StyleName:Bold
+FullName:Gilroy-Bold
+MenuName:Gilroy
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Ntys\Desktop\Кан_газета\Document fonts\Gilroy-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:83456
+FileModTime:1654884210
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Gilroy Bold
+NameArray:0,Mac,4,Gilroy-Bold
+NameArray:0,Win,1,Gilroy
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Gilroy-Medium
+FamilyName:Gilroy
+StyleName:Medium
+FullName:Gilroy-Medium
+MenuName:Gilroy
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Ntys\Desktop\Кан_газета\Document fonts\Gilroy-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:84564
+FileModTime:1654884247
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Gilroy Medium
+NameArray:0,Mac,4,Gilroy-Medium
+NameArray:0,Win,1,Gilroy
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Gilroy-MediumItalic
+FamilyName:Gilroy
+StyleName:Medium Italic
+FullName:Gilroy-MediumItalic
+MenuName:Gilroy
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Ntys\Desktop\Кан_газета\Document fonts\Gilroy-MediumItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:88764
+FileModTime:1654884252
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Gilroy Medium Italic
+NameArray:0,Mac,4,Gilroy-MediumItalic
+NameArray:0,Win,1,Gilroy
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Gilroy-Semibold
+FamilyName:Gilroy
+StyleName:Semibold
+FullName:Gilroy-Semibold
+MenuName:Gilroy
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Ntys\Desktop\Кан_газета\Document fonts\Gilroy-Semibold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:83948
+FileModTime:1654884266
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Gilroy Semibold
+NameArray:0,Mac,4,Gilroy-Semibold
+NameArray:0,Win,1,Gilroy
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueCyr-Medium
+FamilyName:HelveticaNeueCyr
+StyleName:Medium
+FullName:HelveticaNeueCyr-Medium
+MenuName:HelveticaNeueCyr
+StyleBits:0
+FamilyNameNative:HelveticaNeueCyr
+StyleNameNative:Medium
+FullNameNative:HelveticaNeueCyr Medium
+WritingScript:Cyrillic
+OutlineFileName:C:\Users\Ntys\Desktop\Кан_газета\Document fonts\HelveticaMedium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:24388
+FileModTime:1414678524
+WeightClass:550
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,HelveticaNeueCyr-Medium
+NameArray:0,Win,1,HelveticaNeueCyr
+NameArray:0,Win,16,HelveticaNeueCyr
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RFDewi-SemiboldItalic
+FamilyName:RF Dewi
+StyleName:Semibold Italic
+FullName:RF Dewi Semibold Italic
+MenuName:RF Dewi Semibold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Ntys\Desktop\Кан_газета\Document fonts\RFDewi-SemiboldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:88436
+FileModTime:1654882100
+WeightClass:600
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,RF Dewi Semibold Italic
+NameArray:0,Win,1,RF Dewi Semibold
+NameArray:0,Win,16,RF Dewi
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RFDewiExpanded-Italic
+FamilyName:RF Dewi Expanded
+StyleName:Italic
+FullName:RF Dewi Expanded Italic
+MenuName:RF Dewi Expanded
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Ntys\Desktop\Кан_газета\Document fonts\RFDewiExpanded-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:88820
+FileModTime:1654882095
+WeightClass:400
+WidthClass:7
+AngleClass:1
+NameArray:0,Mac,4,RF Dewi Expanded Italic
+NameArray:0,Win,1,RF Dewi Expanded
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RFDewiExpanded-Regular
+FamilyName:RF Dewi Expanded
+StyleName:Regular
+FullName:RFDewiExpanded-Regular
+MenuName:RF Dewi Expanded
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Ntys\Desktop\Кан_газета\Document fonts\RFDewiExpanded-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:85596
+FileModTime:1654882095
+WeightClass:400
+WidthClass:7
+AngleClass:0
+NameArray:0,Mac,4,RFDewiExpanded-Regular
+NameArray:0,Win,1,RF Dewi Expanded
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RFDewiExpanded-Ultrabold
+FamilyName:RF Dewi Expanded
+StyleName:Ultrabold
+FullName:RFDewiExpanded-Ultrabold
+MenuName:RF Dewi Expanded Ultrabold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Ntys\Desktop\Кан_газета\Document fonts\RFDewiExpanded-Ultrabold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:84736
+FileModTime:1654882096
+WeightClass:800
+WidthClass:7
+AngleClass:0
+NameArray:0,Mac,4,RFDewiExpanded-Ultrabold
+NameArray:0,Win,1,RF Dewi Expanded Ultrabold
+NameArray:0,Win,16,RF Dewi Expanded
+%EndFont
+

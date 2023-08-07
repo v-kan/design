@@ -1,0 +1,211 @@
+%!Adobe-FontList 1.22
+%Locale:0x419
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueCyr-Black
+FamilyName:HelveticaNeueCyr
+StyleName:Black
+FullName:HelveticaNeueCyr-Black
+MenuName:HelveticaNeueCyr
+StyleBits:2
+FamilyNameNative:HelveticaNeueCyr
+StyleNameNative:Black
+FullNameNative:HelveticaNeueCyr Black
+WritingScript:Cyrillic
+OutlineFileName:C:\Users\Ntys\Desktop\Журнал\Document fonts\HelveticaBlack.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:24760
+FileModTime:1414678403
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,HelveticaNeueCyr-Black
+NameArray:0,Win,1,HelveticaNeueCyr
+NameArray:0,Win,16,HelveticaNeueCyr
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueCyr-Bold
+FamilyName:HelveticaNeueCyr
+StyleName:Bold
+FullName:HelveticaNeueCyr-Bold
+MenuName:HelveticaNeueCyr
+StyleBits:2
+FamilyNameNative:HelveticaNeueCyr
+StyleNameNative:Bold
+FullNameNative:HelveticaNeueCyr Bold
+WritingScript:Cyrillic
+OutlineFileName:C:\Users\Ntys\Desktop\Журнал\Document fonts\HelveticaBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:23968
+FileModTime:1414678429
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,HelveticaNeueCyr-Bold
+NameArray:0,Win,1,HelveticaNeueCyr
+NameArray:0,Win,16,HelveticaNeueCyr
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueCyr-Light
+FamilyName:HelveticaNeueCyr
+StyleName:Light
+FullName:HelveticaNeueCyr-Light
+MenuName:HelveticaNeueCyr
+StyleBits:0
+FamilyNameNative:HelveticaNeueCyr
+StyleNameNative:Light
+FullNameNative:HelveticaNeueCyr Light
+WritingScript:Cyrillic
+OutlineFileName:C:\Users\Ntys\Desktop\Журнал\Document fonts\HelveticaLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:24932
+FileModTime:1414678495
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,HelveticaNeueCyr-Light
+NameArray:0,Win,1,HelveticaNeueCyr
+NameArray:0,Win,16,HelveticaNeueCyr
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueCyr-LightItalic
+FamilyName:HelveticaNeueCyr
+StyleName:Light Italic
+FullName:HelveticaNeueCyr-LightItalic
+MenuName:HelveticaNeueCyr
+StyleBits:1
+FamilyNameNative:HelveticaNeueCyr
+StyleNameNative:Light Italic
+FullNameNative:HelveticaNeueCyr Light Italic
+WritingScript:Cyrillic
+OutlineFileName:C:\Users\Ntys\Desktop\Журнал\Document fonts\HelveticaLightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:27108
+FileModTime:1414678510
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,HelveticaNeueCyr-LightItalic
+NameArray:0,Win,1,HelveticaNeueCyr
+NameArray:0,Win,16,HelveticaNeueCyr
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueCyr-Medium
+FamilyName:HelveticaNeueCyr
+StyleName:Medium
+FullName:HelveticaNeueCyr-Medium
+MenuName:HelveticaNeueCyr
+StyleBits:0
+FamilyNameNative:HelveticaNeueCyr
+StyleNameNative:Medium
+FullNameNative:HelveticaNeueCyr Medium
+WritingScript:Cyrillic
+OutlineFileName:C:\Users\Ntys\Desktop\Журнал\Document fonts\HelveticaMedium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:24388
+FileModTime:1414678524
+WeightClass:550
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,HelveticaNeueCyr-Medium
+NameArray:0,Win,1,HelveticaNeueCyr
+NameArray:0,Win,16,HelveticaNeueCyr
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueCyr-Roman
+FamilyName:HelveticaNeueCyr
+StyleName:Roman
+FullName:HelveticaNeueCyr-Roman
+MenuName:HelveticaNeueCyr
+StyleBits:0
+FamilyNameNative:HelveticaNeueCyr
+StyleNameNative:Roman
+FullNameNative:HelveticaNeueCyr Roman
+WritingScript:Cyrillic
+OutlineFileName:C:\Users\Ntys\Desktop\Журнал\Document fonts\HelveticaRegular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:24632
+FileModTime:1414678558
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,HelveticaNeueCyr-Roman
+NameArray:0,Win,1,HelveticaNeueCyr
+NameArray:0,Win,16,HelveticaNeueCyr
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RFDewiExpanded-Bold
+FamilyName:RF Dewi Expanded
+StyleName:Bold
+FullName:RF Dewi Expanded Bold
+MenuName:RF Dewi Expanded
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Ntys\Desktop\Журнал\Document fonts\RFDewiExpanded-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:84760
+FileModTime:1654882095
+WeightClass:700
+WidthClass:7
+AngleClass:0
+NameArray:0,Mac,4,RF Dewi Expanded Bold
+NameArray:0,Win,1,RF Dewi Expanded
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RFDewiExpanded-Regular
+FamilyName:RF Dewi Expanded
+StyleName:Regular
+FullName:RFDewiExpanded-Regular
+MenuName:RF Dewi Expanded
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Ntys\Desktop\Журнал\Document fonts\RFDewiExpanded-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:85596
+FileModTime:1654882095
+WeightClass:400
+WidthClass:7
+AngleClass:0
+NameArray:0,Mac,4,RFDewiExpanded-Regular
+NameArray:0,Win,1,RF Dewi Expanded
+%EndFont
+
